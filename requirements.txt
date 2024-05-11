@@ -4,4 +4,5 @@ django-templatetags==1.1
 psycopg2-binary==2.9.9
 qrcode==7.4.2
 Pillow==9.5.0
-django-allauth==0.48.0
+django-storages==1.14.2
+
