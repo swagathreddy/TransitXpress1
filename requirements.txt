@@ -5,3 +5,4 @@ mysql-connector==2.2.9
 mysql-connector-python==8.2.0
 psycopg2-binary==2.9.9
 qrcode==7.4.2
+Pillow==9.5.0
